@@ -1,7 +1,2 @@
-# 这里是南大计科柚子组软需项目
-
-This is Yuzu Group from NJUCS
-
-组长 许家铭(TangJinXuan) 171860581
-
-组员 陈永健(Saltron233) 171860568 黄逸维(aobamoka) 171860542
+黄逸维(aobamoka)所用代码仓库
+用于提交软件需求工程作业
